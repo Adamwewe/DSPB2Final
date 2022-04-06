@@ -1,5 +1,5 @@
 # DSPB2Final
-Final Hand-in for the GCN project
+Group project with 4 oher classmates
 
 
 For the older development repository please use the below link:
